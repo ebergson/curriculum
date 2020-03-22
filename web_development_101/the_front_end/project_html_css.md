@@ -3087,6 +3087,8 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [aexnimbus's Solution (Easy)](https://github.com/aexnimbus/google-homepage) - [View in Browser](https://aexnimbus.github.io/google-homepage/)
 * [castle429's Solution (Easy)](https://github.com/castle429/google_homepage) - [View in Browser](https://castle429.github./google_homepage/)
 </details>
+* [ebergson's Solution (Easy)]https://github.com/ebergson/google-homepage) - [View in Browser](https://ebergson.github.io/google-homepage/)
+</details>
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
